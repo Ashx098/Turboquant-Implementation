@@ -149,6 +149,8 @@ datasets/
 *.jsonl
 *.parquet
 
+vllm/
+
 # Logs
 logs/
 *.log
@@ -175,3 +177,14 @@ events.out.*
 benchmarks/results/
 experiments/
 checkpoints/
+
+# Internal documentation (not for repo)
+BLOG_COMPLETE.md
+BLOG_DRAFT.md
+FINAL_REPORT.md
+LINKEDIN_POST.md
+STATUS_REPORT.md
+TODO.md
+IMPLEMENTATION_AUDIT_REPORT.md
+PHASE4_REPORT.md
+TURBOQUANT_ANALYSIS.md
